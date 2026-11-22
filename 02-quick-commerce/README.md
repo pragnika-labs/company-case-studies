@@ -16,7 +16,7 @@ Official quarterly shareholder letters from Eternal (21 Oct 2026) and Swiggy (22
 (to be filled in)
 
 ## 4. What we found
-(to be filled in)
+Blinkit's Adjusted EBITDA per order moved from about -INR 7 in Q2FY26 to about +INR 4.6 in Q2FY27, crossing into profit in Q3FY26. Instamart improved from about -INR 84 to about -INR 69 over the same period but remains far below break-even. The gap in Q2FY27 is roughly INR 73 per order. (Blinkit's order count includes cancelled orders, so its per-order profit is slightly understated.)
 
 ## 5. What the companies could do
 (to be filled in)
