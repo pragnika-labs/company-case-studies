@@ -1,0 +1,31 @@
+Chart,Series,Quarter,Quarter_Order,Value,Unit,Note
+Adjusted EBITDA per order (INR),Blinkit,FY26 Q2,1,-7.0049,INR per order,Blinkit orders include cancelled orders
+Adjusted EBITDA per order (INR),Blinkit,FY26 Q3,2,0.1644,INR per order,Blinkit orders include cancelled orders
+Adjusted EBITDA per order (INR),Blinkit,FY26 Q4,3,1.3509,INR per order,Blinkit orders include cancelled orders
+Adjusted EBITDA per order (INR),Blinkit,FY27 Q1,4,3.0816,INR per order,Blinkit orders include cancelled orders
+Adjusted EBITDA per order (INR),Blinkit,FY27 Q2,5,4.6127,INR per order,Blinkit orders include cancelled orders
+Adjusted EBITDA per order (INR),Instamart,FY26 Q2,1,-84.2262,INR per order,
+Adjusted EBITDA per order (INR),Instamart,FY26 Q3,2,-85.3383,INR per order,
+Adjusted EBITDA per order (INR),Instamart,FY26 Q4,3,-76.1989,INR per order,
+Adjusted EBITDA per order (INR),Instamart,FY27 Q1,4,-67.9476,INR per order,
+Adjusted EBITDA per order (INR),Instamart,FY27 Q2,5,-68.6876,INR per order,
+Instamart Adjusted EBITDA (INR Cr),Instamart,FY26 Q2,1,-849.0,INR Cr,
+Instamart Adjusted EBITDA (INR Cr),Instamart,FY26 Q3,2,-908.0,INR Cr,
+Instamart Adjusted EBITDA (INR Cr),Instamart,FY26 Q4,3,-858.0,INR Cr,
+Instamart Adjusted EBITDA (INR Cr),Instamart,FY27 Q1,4,-778.0,INR Cr,
+Instamart Adjusted EBITDA (INR Cr),Instamart,FY27 Q2,5,-895.0,INR Cr,
+Annualised NOV (INR Cr),Blinkit,FY26 Q2,1,46716.0,INR Cr,Quarterly NOV x 4
+Annualised NOV (INR Cr),Blinkit,FY26 Q3,2,53200.0,INR Cr,Quarterly NOV x 4
+Annualised NOV (INR Cr),Blinkit,FY26 Q4,3,57544.0,INR Cr,Quarterly NOV x 4
+Annualised NOV (INR Cr),Blinkit,FY27 Q1,4,68528.0,INR Cr,Quarterly NOV x 4
+Annualised NOV (INR Cr),Blinkit,FY27 Q2,5,83760.0,INR Cr,Quarterly NOV x 4
+Annualised NOV (INR Cr),Instamart,FY26 Q2,1,19661.6,INR Cr,Derived from rounded NOV %; quarterly x 4
+Annualised NOV (INR Cr),Instamart,FY26 Q3,2,21908.88,INR Cr,Derived from rounded NOV %; quarterly x 4
+Annualised NOV (INR Cr),Instamart,FY26 Q4,3,22697.28,INR Cr,Derived from rounded NOV %; quarterly x 4
+Annualised NOV (INR Cr),Instamart,FY27 Q1,4,23404.72,INR Cr,Derived from rounded NOV %; quarterly x 4
+Annualised NOV (INR Cr),Instamart,FY27 Q2,5,26213.2,INR Cr,Derived from rounded NOV %; quarterly x 4
+Annualised NOV (INR Cr),Swiggy break-even scale,FY26 Q2,1,60000.0,INR Cr,"Swiggy letter p.13, Q8"
+Annualised NOV (INR Cr),Swiggy break-even scale,FY26 Q3,2,60000.0,INR Cr,"Swiggy letter p.13, Q8"
+Annualised NOV (INR Cr),Swiggy break-even scale,FY26 Q4,3,60000.0,INR Cr,"Swiggy letter p.13, Q8"
+Annualised NOV (INR Cr),Swiggy break-even scale,FY27 Q1,4,60000.0,INR Cr,"Swiggy letter p.13, Q8"
+Annualised NOV (INR Cr),Swiggy break-even scale,FY27 Q2,5,60000.0,INR Cr,"Swiggy letter p.13, Q8"
