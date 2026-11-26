@@ -18,7 +18,8 @@ Dataset: `data/clean/quick_commerce_dataset.xlsx` (includes a Definitions sheet 
 - Compiled quick-commerce metrics for both brands and cross-checked them (recomputed average order value, margins and segment totals).
 - Compared like with like: used per-order measures and net order value. Revenue was not compared because Blinkit includes the value of goods sold and Instamart reports marketplace revenue.
 - Per order maths: INR Cr x 10 / million orders = INR per order.
-- Tested three claims with three charts. Built in Google Sheets.
+- Tested three claims with three charts (drawn in Google Sheets; chart 1 also rebuilt in Excel).
+- Summarised the data with an Excel PivotTable and cross-checked key figures with VLOOKUP and XLOOKUP (see the Pivot and Lookup sheets in the workbook).
 
 ## 4. What we found
 
@@ -51,5 +52,5 @@ Swiggy's break-even markers (annualised NOV of about INR 60,000 Cr and contribut
 - Only five quarters are covered, from one letter per company.
 
 ## Files
-- `data/clean/quick_commerce_dataset.xlsx`: dataset, checks, definitions
+- `data/clean/quick_commerce_dataset.xlsx`: dataset, checks, definitions, chart data, PivotTable and lookup practice
 - `outputs/`: the three charts
